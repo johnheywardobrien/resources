@@ -1,0 +1,4 @@
+Database information:
+http://en.wikipedia.org/wiki/In-memory_database
+http://stackoverflow.com/questions/777724/whats-the-best-way-to-talk-to-a-database-while-using-sinatra
+http://datamapper.org/getting-started.html
